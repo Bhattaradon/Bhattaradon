@@ -1,8 +1,8 @@
 # 👨‍💻 Bhattaradon Sukon
 
 🎓 Physics Graduate | MSc Candidate in Physics (International Program)  
-📊 Data Scientist 
-📍 Nakhon Ratchasima & Bangkok, Thailand  
+📊 Data Scientist @jipjipmoney \
+📍 Bangkok, Thailand  
 📧 sut.t2n@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/Bhattaradon)
 
