@@ -1,7 +1,7 @@
 # 👨‍💻 Bhattaradon Sukon
 
 🎓 Physics Graduate | MSc Candidate in Physics (International Program)  
-📊 Data Analyst | Machine Learning Enthusiast | Scientific Computing Specialist  
+📊 Data Scientist 
 📍 Nakhon Ratchasima & Bangkok, Thailand  
 📧 sut.t2n@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/Bhattaradon)
@@ -16,13 +16,7 @@ My research background focuses on **astrophysics**, especially **galactic dynami
 
 Beyond academics, I actively engage in applied machine learning projects and have hands-on experience delivering impactful solutions—like a medication dispensing system that reduced errors by **20%**, developed using **Python**, **SQL**, and **ML techniques** during the **SUT Hackathon**, where I won first place.
 
----
 
-## 🚀 Currently Looking For
-
-✅ Open to **Junior** **Data Scientist**, **Data Engineer**, **Data Analyst**, and **Programmer** roles  
-📍 Available for **On-site**, **Hybrid**, or **Remote** work (Monday–Friday)  
-🕒 Ready to start **immediately**
 
 ---
 
