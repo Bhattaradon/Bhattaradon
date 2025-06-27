@@ -68,7 +68,7 @@ Beyond academics, I actively engage in applied machine learning projects and hav
 - <a title="Nonodename, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"><img width="40" alt="New Power BI Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png?20210102182532"></a> **Power BI (Basic)**
 
 ### 🤖 Machine Learning
-- Classification, Linear Regression, Decision Trees, Random Forest, SVM, Neural Networks
+- Classification, Linear Regression, Decision Trees, Random Forest, SVM, Neural Networks, XGBoost, LightGBM, CatBoost
 
 ### 📐 Numerical Computing
 - ODEs, PDEs, Monte Carlo Methods, Interpolation, Derivatives, Integration
