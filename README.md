@@ -24,12 +24,12 @@ Beyond academics, I actively engage in applied machine learning projects and hav
 - <a title="Suranaree University of Technology, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:SUT_Logo.svg"><img width="40" alt="SUT Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/SUT_Logo.svg/512px-SUT_Logo.svg.png?20250213135725"></a> **BSc in Physics**, Suranaree University of Technology
 - <a title="Suranaree University of Technology, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:SUT_Logo.svg"><img width="40" alt="SUT Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/SUT_Logo.svg/512px-SUT_Logo.svg.png?20250213135725"></a> **MSc in Physics** (International Program), Suranaree University of Technology **(On Going)**
 
-- <a title="Suranaree University of Technology, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:SUT_Logo.svg"><img width="40" alt="SUT Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/SUT_Logo.svg/512px-SUT_Logo.svg.png?20250213135725"></a> **Research Assistant** (2021–Present)  
+- <a title="Suranaree University of Technology, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:SUT_Logo.svg"><img width="40" alt="SUT Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/SUT_Logo.svg/512px-SUT_Logo.svg.png?20250213135725"></a> **Research Assistant** (2021–2025)  
   - Simulating star orbits in galactic potentials
   - Applying machine learning to astrophysical datasets
   - Publishing and presenting in academic conferences
 
-- <a title="Suranaree University of Technology, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:SUT_Logo.svg"><img width="40" alt="SUT Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/SUT_Logo.svg/512px-SUT_Logo.svg.png?20250213135725"></a> **Teacher Assistant** (2022–Present)  
+- <a title="Suranaree University of Technology, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:SUT_Logo.svg"><img width="40" alt="SUT Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/SUT_Logo.svg/512px-SUT_Logo.svg.png?20250213135725"></a> **Teacher Assistant** (2022–2025)  
   - Guided students in Physics labs and tutorials
   - Participated in national astronomy camps and outreach
 
